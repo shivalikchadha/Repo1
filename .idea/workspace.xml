@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22f2ad83-9006-4fd8-9604-fd1f831dec83" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/src/test/java/LenovoChange2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LenovoChange2.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/src/test/java/LenovoChange1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LenovoChange1.java" afterDir="false" />
+>>>>>>> 297f7482fd5596a65d2fc09f05a16590a234586b
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
