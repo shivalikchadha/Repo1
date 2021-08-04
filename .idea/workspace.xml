@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22f2ad83-9006-4fd8-9604-fd1f831dec83" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/LenovoChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/LenovoChange2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LenovoChange1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LenovoChange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/LenovoChange2.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
